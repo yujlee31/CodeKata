@@ -1,0 +1,2 @@
+# CodeKata
+algorithm codekata
