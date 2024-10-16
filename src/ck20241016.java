@@ -8,8 +8,6 @@ public class ck20241016 {
                     answer = num1 - num2;
                 }
             }
-
-
             return answer;
         }
 
