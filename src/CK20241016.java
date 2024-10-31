@@ -1,4 +1,4 @@
-public class ck20241016 {
+public class CK20241016 {
 
         public int solution(int num1, int num2) {
             int answer = 0;

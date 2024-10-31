@@ -1,4 +1,4 @@
-public class ck20241022 {
+public class CK20241022 {
     class Solution {
         public int solution(int num1, int num2) {
             double tmp = ((double)num1/(double)num2)*1000;
